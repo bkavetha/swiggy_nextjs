@@ -1,0 +1,46 @@
+{
+  "data2":[
+    {
+      "item":"veg",
+      "title":"Veg Chilli Momo",
+      "price":"inr 259",
+      "text":"Veggie kothey roasted and mixed with Pahari Seasoning to experience a Wow! Hilly touch. We don't serve additional Sauce with this plate of Momos [5Pcs].",
+      "image":"https://static.toiimg.com/thumb/53238170.cms?imgsize=195776&width=800&height=800"
+    },
+    {
+      "item":"veg",
+      "title":"Veg Munchuriyan Momo",
+      "price":"inr 559",
+      "text":"Veggie kothey roasted and mixed with Pahari Seasoning to experience a Wow! Hilly touch. We don't serve additional Sauce with this plate of Momos [5Pcs].",
+      "image":"https://www.yummytummyaarthi.com/wp-content/uploads/2017/09/1-30.jpg"
+    },
+    {
+      "item":"veg",
+      "title":"Veg Panner Momo",
+      "price":"inr 159",
+      "text":"Veggie kothey roasted and mixed with Pahari Seasoning to experience a Wow! Hilly touch. We don't serve additional Sauce with this plate of Momos [5Pcs].",
+      "image":"https://cdn.foodaciously.com/static/recipes/ee9fd204-25cf-4e97-be5a-d7626470d420/easy-vegan-momos-recipe-7ab341154a5c13d6d9642300e7e2c92d-2560.jpg"
+    },
+    {
+      "item":"nonveg",
+      "title":"Chicekn Momo",
+      "price":"inr 459",
+      "text":"Veggie kothey roasted and mixed with Pahari Seasoning to experience a Wow! Hilly touch. We don't serve additional Sauce with this plate of Momos [5Pcs].",
+      "image":"https://img.etimg.com/thumb/width-640,height-480,imgsize-348620,resizemode-75,msid-70813564/magazines/panache/with-a-dash-of-curry-spices-tandoori-mayonnaise-on-the-side-indians-gave-momos-a-desi-twist/momos.jpg"
+    },
+    {
+      "item":"nonveg",
+      "title":"Mutton momo",
+      "price":"inr 959",
+      "text":"Veggie kothey roasted and mixed with Pahari Seasoning to experience a Wow! Hilly touch. We don't serve additional Sauce with this plate of Momos [5Pcs].",
+      "image":"https://s3-ap-south-1.amazonaws.com/nestle-fitterfly-assets/entity_images/images/000/010/820/original/19264-Tandoori_Chicken_Momos.webp?1658239641"
+    },
+    {
+      "item":"nonveg",
+      "title":"Fish momo",
+      "price":"inr 559",
+      "text":"Veggie kothey roasted and mixed with Pahari Seasoning to experience a Wow! Hilly touch. We don't serve additional Sauce with this plate of Momos [5Pcs].",
+      "image":"https://c.ndtvimg.com/2023-03/fqpicf98_momos_625x300_15_March_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886"
+    }
+  ]
+}

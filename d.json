@@ -1,0 +1,151 @@
+{
+    "data":[
+       {
+        "title":"Wow!Momo",
+        "ratings":"3.9",
+        "time":"44 min",
+        "images":"",
+        "area":"Healthy Food-Camp"
+       },
+       {
+        "title":"Mc Donald's",
+        "ratings":"4.4",
+        "time":"37",
+        "images":"",
+        "area":"Shaniwar wada"
+       },
+       {
+        "title":"KFC",
+        "ratings":"4.1",
+        "time":"2.5",
+        "images":"",
+        "area":"Deccan Gymkhana"
+       },
+       {
+        "title":"Samuddra Veg",
+        "ratings":"4.4",
+        "time":"35 min",
+        "images":"",
+        "area":"Swargate"
+       },
+       {
+       "title":"Domino's Pizza",
+        "ratings":"4",
+        "time":"25 min",
+        "images":"",
+        "area":"Rasta Peth"
+       },
+       {
+        "title":"Hotel Dawat",
+        "ratings":"3",
+        "time":"29 min",
+        "images":"",
+        "area":"Shivaginagar"
+       },
+       {
+        "title":"NH1 Bowl",
+        "ratings":"4.6",
+        "time":"12 min",
+        "images":"",
+        "area":"Dhole Patil"
+       },
+       {
+        "title":"Mathura veg",
+        "ratings":"4.3",
+        "time":"33 min",
+        "images":"",
+        "area":"Shivagi nagar"
+       },
+       {
+        "title":"Kok ka Chinese",
+        "ratings":"4.2",
+        "time":"29 min",
+        "images":"",
+        "area":"Shivaji nagar"
+       },
+       {
+        "title":"Hotel Shreyas",
+        "ratings":"4.5",
+        "time":"28 min",
+        "images":"",
+        "area":"camp"
+       },
+       {
+        "title":"Supriya Resturent",
+        "ratings":"4.6",
+        "time":"24 min",
+        "images":"",
+        "area":"Prabhat Road"
+       },
+       {
+        "title":"Big Bowl",
+        "ratings":"4.1",
+        "time":"41 min",
+        "images":"",
+        "area":"Swargate"
+       },
+       {
+        "title":"George Resturent",
+        "ratings":"4.4",
+        "time":"28 min",
+        "images":"",
+        "area":"Camp"
+       },
+       {
+        "title":"Marz o rin",
+        "ratings":"4.6",
+        "time":"30 min",
+        "images":"",
+        "area":"Camp"
+       },
+       {
+        "title":"Garden Vada center",
+        "ratings":"4.3",
+        "time":"35 min",
+        "images":"",
+        "area":"Deccan Gymkhana"
+       },
+       {
+        "title":"Shahi Dawat",
+        "ratings":"4.5",
+        "time":"28 min",
+        "images":"",
+        "area":"Viman Nagar"
+       },
+       {
+        "title":"Rama Krishna",
+        "ratings":"4.4",
+        "time":"30 min",
+        "images":"",
+        "area":"Dhole Patil"
+       },
+       {
+        "title":"Kwality family resturent",
+        "ratings":"4.3",
+        "time":"31 min",
+        "images":"",
+        "area":"Sadashiv peth"
+       },
+       {
+        "title":"Wong's Kitchen",
+        "ratings":"4.8",
+        "time":"12 min",
+        "images":"",
+        "area":"Sector 34"
+       },
+       {
+        "title":"Cream Caver",
+        "ratings":"4.4",
+        "time":"31 min",
+        "images":"",
+        "area":"camp"
+       },
+       {
+        "title":"Homely Meals",
+        "ratings":"4",
+        "time":"27 mins",
+        "images":"",
+        "area":"Kharadi"
+       }
+    ]
+}
